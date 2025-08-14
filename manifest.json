@@ -1,0 +1,16 @@
+{
+  "name": "Articles by Nostr.Buzz",
+  "short_name": "Articles",
+  "description": "Decentralized article publishing platform for Nostr by Nostr.Buzz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
